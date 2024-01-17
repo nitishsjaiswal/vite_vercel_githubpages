@@ -1,0 +1,12 @@
+.nav {
+  background-color: aquamarine;
+}
+
+.ul {
+  display: flex;
+}
+
+.li {
+  list-style-type: none;
+  margin: 10px;
+}
