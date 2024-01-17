@@ -18,6 +18,7 @@ const Navbar = () => {
           <Link to="/terms">
             <li className={styles.li}>Terms</li>
           </Link>
+          <p>This is for github pages</p>
         </ul>
       </nav>
     </div>
