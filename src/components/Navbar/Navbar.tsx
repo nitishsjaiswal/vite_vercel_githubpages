@@ -19,6 +19,7 @@ const Navbar = () => {
             <li className={styles.li}>Terms</li>
           </Link>
         </ul>
+        <p>THis is a navbar</p>
       </nav>
     </div>
   );
